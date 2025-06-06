@@ -12,7 +12,6 @@ Achievements
 * SSHD based on Dropbear project
 * Mesa3d
 * Quake3
-* zeromq, qpid
 * ...
 
 Key features
